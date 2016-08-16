@@ -1,0 +1,22 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Create Tagfile=0
+[Files]
+0=..\AirjAutoKey\
+1=..\AirjAutoKey_GUI\
+2=..\AirjAutoKey_Monk\
+3=..\AirjAutoKey_Options\
+4=..\Ace3\
+5=..\AirjAutoKey_DeathKnight\
+[Group Filter]
+..\AirjAutoKey_Options\=*.lua;*.toc
+..\AirjAutoKey_Monk\=*.lua;*.toc
+..\AirjAutoKey_GUI\=*.lua;*.toc
+..\AirjAutoKey\=*.lua;*.toc

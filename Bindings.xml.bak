@@ -1,0 +1,11 @@
+﻿<Bindings>
+	<Binding name="AAK_START" header="AAK">
+		AirjAutoKeyFrame.SlashHandler("start")
+	</Binding>
+	<Binding name="AAK_STOP" header="AAK">
+		AirjAutoKeyFrame.SlashHandler("stop")
+	</Binding>
+	<Binding name="AAK_PAUSE" header="AAK">
+		AirjAutoKeyFrame.SlashHandler("pause")
+	</Binding>
+</Bindings>

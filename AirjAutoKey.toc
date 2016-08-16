@@ -1,0 +1,15 @@
+﻿## Interface: 62000
+## Title: [AirjAutoKey] Core
+## Version: 2.0
+## Author: Airj
+## SavedVariables: AirjAutoKeyDB
+## RequiredDeps: Ace3
+
+#embeds.xml
+Libs\DRData-1.0\DRData-1.0.xml
+
+AirjAutoKey.lua
+Filters.lua
+Operation.lua
+--KeyList.lua
+--Bindings.xml

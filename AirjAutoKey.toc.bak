@@ -1,0 +1,14 @@
+﻿## Interface: 60000
+## Title: [AirjAutoKey]核心
+## Version: 1.0
+## Author: Airj
+## SavedVariables: AirjAutoKeyDB
+## RequiredDeps: Ace3
+
+#embeds.xml
+
+AirjAutoKey.lua
+Filters.lua
+Operation.lua
+--KeyList.lua
+--Bindings.xml

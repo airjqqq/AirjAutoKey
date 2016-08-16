@@ -1,0 +1,16 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Project TpFile=
+Filter=
+Create Tagfile=0
+[Group]
+0=src
+[Files]
+0=..\AirjBags.lua
+1=..\AirjBags.toc
